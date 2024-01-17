@@ -15,4 +15,8 @@ header {
 
 ul {
     list-style: none;
+
+    /* Flex container properties */
+    display: flex;
+    gap: 16px;
 }
