@@ -25,4 +25,10 @@ ul {
     /* Flex container properties */
     display: flex;
     gap: 16px;
+    align-items: center;
+}
+
+li {
+    font-size: 18px;
+    color: #E5E7EB;
 }
