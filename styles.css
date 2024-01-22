@@ -9,9 +9,11 @@ body {
     flex-direction: column;
 }
 
-header, .media-object, .information, .quote, .call-action, footer {
+body > * {
     padding: 16px 128px;
 }
+
+/* Header */
 
 header {
     background-color: #1F2937;
@@ -36,3 +38,5 @@ li {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+/* .Media-Object */
