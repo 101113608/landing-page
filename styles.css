@@ -9,6 +9,12 @@ body {
 }
 
 header {
+    background-color: #1F2937;
+    padding: 16px;
+    font-size: 24px;
+    color: #F9FAF8;
+
+    /* Flex container properties */
     display: flex;
     justify-content: space-between;
 }
