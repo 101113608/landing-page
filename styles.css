@@ -66,3 +66,10 @@ li {
     max-width: 400px;
     color: #F9FAF8;
 }
+
+/* Media-object secondary text */
+.media-object .content p {
+    font-size: 18px;
+    color: #F9FAF8;
+    max-width: 600px;
+}
