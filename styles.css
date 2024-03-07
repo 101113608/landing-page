@@ -88,3 +88,17 @@ li {
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
 }
+
+/* Media-object placeholder image */
+.media-object .placeholder-image {
+    /* Flex container properties */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 200px;
+    width: 100%;
+    max-width: 800px;
+    background-color: rgb(109, 116, 125);
+    color: white;
+}
