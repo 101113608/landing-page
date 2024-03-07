@@ -39,7 +39,7 @@ li {
     color: #E5E7EB;
 }
 
-/* .Media-Object */
+/* .Media-object */
 .media-object {
     /* Flex container properties */
     display: flex;
@@ -57,4 +57,12 @@ li {
 
     padding-top: 64px;
     padding-bottom: 64px;
+}
+
+/* Media-object main text */
+.media-object .content h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    max-width: 400px;
+    color: #F9FAF8;
 }
