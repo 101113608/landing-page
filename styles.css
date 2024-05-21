@@ -104,6 +104,15 @@ li {
     color: white;
 }
 
+/* Quote */
+.quote {
+    /* Flex container properties */
+    display: flex;
+    justify-content: center;
+
+    background-color: #E5E7EB;
+}
+
 /* Footer */
 footer {
     text-align: center;
