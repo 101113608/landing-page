@@ -113,6 +113,13 @@ li {
     background-color: #E5E7EB;
 }
 
+.quote blockquote {
+    /* Flex container properties */
+    display: flex;
+    flex-direction: column;
+    max-width: 850px;
+}
+
 /* Footer */
 footer {
     text-align: center;
