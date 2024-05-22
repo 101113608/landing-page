@@ -172,6 +172,21 @@ li {
     font-weight: bolder;
 }
 
+/* Call-action */
+.call-action .box.background {
+    /* Flex container properties */
+    display: flex;
+    justify-content: space-around;
+
+    background-color: #3882F6;
+    padding: 24px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+
 /* Footer */
 footer {
     text-align: center;
