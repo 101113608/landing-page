@@ -121,6 +121,13 @@ li {
     gap: 64px;
 }
 
+.information .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
 /* Quote */
 .quote {
     /* Flex container properties */
