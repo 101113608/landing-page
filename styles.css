@@ -187,6 +187,16 @@ li {
     -o-border-radius: 6px;
 }
 
+.call-action.box .left-side.heading {
+    color:#F9FAF8;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.call-action.box .left-side.paragraph {
+    color: #E5E7EB;
+}
+
 /* Footer */
 footer {
     text-align: center;
