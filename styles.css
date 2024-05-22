@@ -120,6 +120,7 @@ li {
     justify-content: center;
     gap: 64px;
 }
+
 .information .card {
     display: flex;
     flex-direction: column;
