@@ -203,6 +203,20 @@ li {
     align-items: center;
 }
 
+.call-action .box .right-side button {
+    color: #F9FAF8;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 6px 32px;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
 /* Footer */
 footer {
     text-align: center;
