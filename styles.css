@@ -25,6 +25,10 @@ header {
     color: #F9FAF8;
 }
 
+.header-logo {
+    font-weight: 900
+}
+
 ul {
     /* Flex container properties */
     display: flex;
