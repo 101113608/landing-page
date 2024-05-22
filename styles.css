@@ -197,6 +197,12 @@ li {
     color: #E5E7EB;
 }
 
+.call-action.box .right-side {
+    /* Flex container properties */
+    display: flex;
+    align-items: center;
+}
+
 /* Footer */
 footer {
     text-align: center;
