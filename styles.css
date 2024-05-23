@@ -10,8 +10,25 @@ body {
     flex-direction: column;
 }
 
-body > * {
-    padding: 16px 128px;
+/* Padding for each section */
+header, footer {
+    padding: 32px 240px;
+}
+
+.section.media-object {
+    padding: 64px 240px;
+}
+
+.section.information {
+    padding: 64px 240px 128px 240px;
+}
+
+.section.quote {
+    padding: 128px 240px;
+}
+
+.section.call-action {
+    padding: 128px 240px;
 }
 
 /* Header */
